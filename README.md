@@ -8,4 +8,6 @@ This is based on the basic assumption that stocks from the same classes will hav
 
 If our model can better characterize the trends of stocks, it will achieve higher accuracy in classification.
 
+Here we use 10 stocks from IT to visualize how RobustPCA decompose stocks into low-rank component and sparse component.
 
+![Decomposition of 10 Stocks from IT with RobustPCA](https://github.com/ZhicongLiang/SNP500-Stock-Trend/blob/master/figs/IT-decompose.jpg)
